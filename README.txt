@@ -1,0 +1,1 @@
+This directory contains some predefined and parsed DTD files. This will speed up the Parsing significantly compared to downloading and parsing a DTD each time. Additional, downloaded and parsed DTD files can be saved in this directory.
